@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/laragon/www/php/exo_poo/views/login.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/views/connect.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/controllers/alldata_poo_controller.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/controllers/login_controller.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/controllers/co_bdd_controller.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/views/header.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/views/read.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/views/update.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/models/disc_dao.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/views/alldata.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/models/disc.php</file>
+            <file>file:/C:/laragon/www/php/exo_poo/controllers/poo_update_controller.php</file>
+        </group>
+    </open-files>
+</project-private>
